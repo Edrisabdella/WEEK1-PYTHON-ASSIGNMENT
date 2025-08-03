@@ -1,5 +1,3 @@
-# WEEK1-PYTHON-ASSIGNMENT
-Intro to python assignment
 # Basic Calculator - Python CLI
 # Author: Edris Abdella
 # Ask the user to input two numbers and a mathematical operation
